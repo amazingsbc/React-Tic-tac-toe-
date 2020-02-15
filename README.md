@@ -1,3 +1,6 @@
+## 这是react官网[React的初始教程](https://react.docschina.org/tutorial/tutorial.html)中的练习题，将后续补充完善。
+内容在 /src/index.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
